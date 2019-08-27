@@ -1,0 +1,42 @@
+#menu-posts-club_post {
+    display: none;
+}
+
+.club_img_div {
+    text-align: center;
+}
+
+.club_text_lock {
+    font-size: 20px;
+}
+
+.club_button_div {
+    padding: 10px;
+    float: left;
+    width: 229px;
+    box-sizing: content-box;
+}
+
+.club_buy_button_div {
+    padding: 10px;
+    box-sizing: content-box;
+}
+
+.club_buy_button_div button {
+    padding: 10px;
+}
+
+.club_button_div button {
+    width: 190px;
+    padding: 10px;
+}
+
+.club_underbutton_text {
+    font-size: 20px;
+    text-align: center;
+}
+
+.club_div_content {
+    padding-top: 5px;
+    text-align: center;
+}
